@@ -1,9 +1,9 @@
 # Machine Learning: Linear Regressor
-This project is completed from ELEC 400M at UBC (Dr. XiaoXiao Li), using a linear regressor model to forecast future model. 
+This project is from ELEC 400M, UBC with Dr. XiaoXiao Li, using a linear regressor model to forecast future model. 
 
-For project details, please see 'HW1.pdf'. The project is written in **python** for data analytics, and **graphical data** are *visualized* with ***matplotlib***
+For project details, please see 'HW1.pdf'. The project is written with **python**.
 
-Some main libraries used:
+Libraries used:
 - numpy
 - pandas
 - csv
@@ -11,4 +11,4 @@ Some main libraries used:
 - matplotlib
 - sklearn
 
-To run the code, please have Jupyter notebook environment installed. The code is completely procedural, meaning it can be ran completley sequentially.
+Jupyter notebook environment is required to run the code.
